@@ -1,12 +1,12 @@
 👋 Hola, soy Irene!
 
-Soy una programadora apasionada por la tecnología y el desarrollo de software. Me encanta crear soluciones eficientes y aprender nuevas herramientas cada día.
+Soy una programadora en formación, actualmente estudiando Desarrollo de Aplicaciones Web (DAW) y titulada en Sistemas Microinformáticos y Redes (SMR). Me apasiona la tecnología y disfruto creando soluciones eficientes mientras aprendo nuevas herramientas cada día.
 
 🎓 Sobre mí
 
-🚀 Interesada en el desarrollo web y de aplicaciones.
+🚀 Estudiante de DAW con interés en el desarrollo web y de aplicaciones.
 
-🌐 Apasionada por la programación en Java, JavaScript.
+📚 En mi tiempo libre, me encanta leer y descubrir nuevas historias.
 
 🙌 Siempre abierta a nuevos desafíos y oportunidades de aprendizaje.
 
@@ -20,4 +20,4 @@ Herramientas: Git, Docker, VS Code, etc..
 
 Email: ireneag2403@gmail.com
 
-⭐⭐⭐ Gracias por visitar mi perfil ⭐⭐⭐
+⭐️⭐️⭐️ ¡Gracias por visitar mi perfil! ⭐️⭐️⭐️
