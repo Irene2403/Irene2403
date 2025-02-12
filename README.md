@@ -12,7 +12,10 @@ Soy una programadora en formación, actualmente estudiando Desarrollo de Aplicac
 
 🚀 Habilidades
 
-Lenguajes de Programación: Java
+Lenguajes:
+-HTML,CSS
+-Java
+-SQL
 
 Herramientas: Git, Docker, VS Code, etc..
 
